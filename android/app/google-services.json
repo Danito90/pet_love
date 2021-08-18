@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1026879530724",
+    "firebase_url": "https://petvet-923d3-default-rtdb.firebaseio.com",
+    "project_id": "petvet-923d3",
+    "storage_bucket": "petvet-923d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026879530724:android:5cbc07c133a68ba6c42ef1",
+        "android_client_info": {
+          "package_name": "com.example.pet_love"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026879530724-s8blbj7dkmbgeoai5e6cs37fimrrn59n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGt1mqSEwmUCAcUXtYQbgpILJYpSg7PYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026879530724-s8blbj7dkmbgeoai5e6cs37fimrrn59n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

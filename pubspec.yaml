@@ -1,0 +1,82 @@
+name: pet_love
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  get:
+  dio:
+  font_awesome_flutter: ^8.4.0 #iconos
+  curved_navigation_bar: ^0.3.7
+  bottomreveal: ^1.0.0
+  percent_indicator:
+  flutter_overboard: #inicio home intro
+
+  network_to_file_image: #convertir network a file
+  image_picker: ^0.6.3+4
+  firebase_core : ^0.7.0
+  firebase_database: ^6.0.0
+  firebase_storage: ^7.0.0
+  uuid: #nombres unicos
+
+
+  flutter_launcher_icons:
+
+
+  intl: 
+  cupertino_icons: ^1.0.0
+
+
+  flutter_localizations:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter_icons:
+  android: true
+  ios: "huellas.png"
+  image_path: "assets/huellas.png"
+
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - fondo.jpg
+    - disquete.png
+    - deg_celeste.jpg
+    - dog-collar.png
+    - dog.png
+    - comentario.png
+    - gato-domestico.png
+    - posicion.png
+    - telefono.png
+    - email.png
+    - whatsapp.png
+    - foto.png
+    - abierto.png
+    - encontrar.png
+    - buscar.png
+    - perro-delante-de-un-hombre.png
+    - silueta.jpg
+    - silueta2.jpg
+    - editar.png
+    - eliminar.png
+    - huellas.png
+    - actualizar.png
+
+
